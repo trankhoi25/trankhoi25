@@ -1,12 +1,24 @@
 <doctype html>
 <html>
-<style>
-  h1 {text-align: center;}
-  h2 {text-align: center;}
-  h3 {text-align: center;}
-  p {text-align: center;}
-  div {text-align: center;}
+<head>
+  <style>
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
+  div {
+    text-align: center;
+  }
 </style>
+</head>
 
   <header>
     <h1>
