@@ -26,11 +26,26 @@
   </body>
 
   <body>
+    <h3 align="center">
+      About Us
+    </h3>
+    <h4 align="center">
+      Dr Titi Tang
+    </h4>
+    <p align="center">
+      Dr Titi Tang founded the FMC alongside Dr Hoang Tran in 1992. Together they helped thousands of patients in Footscray, particularly Vietnamese patients who spoke minimal English and couldn't find GP that could effectively understand them. 
+    </p>
+    <h4 align="center">
+      Dr Hoang Tran
+    </h4>
+  </body>
+
+  <body>
     <h1 align="center">
       Looking to see if a service is provided?
     </h1>
     <h3 align="center">
-      Check out the different services we provide at our clinic here.
+      Check out the different services we provide at our clinic <a href="https://www.w3schools.com/">here</a>.
     </h3>
   </body>
 
