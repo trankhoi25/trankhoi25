@@ -1,0 +1,1 @@
+This little project is an ongoing attempt at making some website pages for a hypothetical clinic. Overtime, the intention is to add small features that improve the qaulity of this page as I develope and experiment more with HTML and maybe CSS.
