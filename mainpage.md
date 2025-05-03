@@ -1,26 +1,22 @@
-<doctype html>
+<!doctype html>
 <html>
   <head>
+  <link rel="stylesheet" href="style.css">
   <style>
         .div-1 {
         background-color: #000000;
-        color: #FFFFFF:
     }
 
-    .div-2 {
+      .div-2 {
         background-color: #FFFFFF;
-        color: #000000;
     
     }
 
-    .div-3 {
+      .div-3 {
         background-color: #000000;
-        color: #FFFFFF:
     }
   </style>
   </head>
-
-<img src="https://github.com/user-attachments/assets/b4d35f78-c9c6-4d39-ae41-970ec992adc7" width=250% alt="We strive to give customers the best experience">
 
   <body>
     <h1 align="center">
@@ -32,6 +28,9 @@
     <h3 align="center">
       Call us to make a booking at: (03) 0403 718 259
     </h3>
+
+<img src="https://github.com/user-attachments/assets/b4d35f78-c9c6-4d39-ae41-970ec992adc7" width=150% alt="We strive to give customers the best experience">
+
     <div class="div-1">
     <h3 align="center">
       Footscray Medical Clinic
