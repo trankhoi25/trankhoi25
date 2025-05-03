@@ -24,9 +24,6 @@
     <p align="center">
       Bookings are available only on phone. Please call us on (03) 0403 718 259 to make an appointment today.
     </p>
-  </body>
-
-  <body>
     <h3 align="center">
       About Us
     </h3>
@@ -41,10 +38,7 @@
     </h4>
     <p align="center">
       Dr Hoang Tran was born in Vietnam and came to Australia to complete his studies in medicine. After meeting Dr Titi Tang in university, the two of them decided that they should start their own clinic in Footscray to help service the Vietnamese population that live there
-    </p>  
-  </body>
-
-  <body>
+    </p> 
     <h2 align="center">
       Looking to see if a service is provided?
     </h2>
@@ -53,12 +47,5 @@
     </h4>
   </body>
 
-
-  <body>
-
-    
-  </body>
-
-  
 
 </html>
