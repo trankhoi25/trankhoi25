@@ -2,41 +2,50 @@
 <html>
 <head>
 <style>
-    .div-1 {
-      background-color: #000000;
-      padding: 30px;
-  }
-
-    .div-2 {
-      background-color: #FFFFFF;
-      padding: 30px;
-  }
-    .div-image1 {
-      background-image: url('https://github.com/user-attachments/assets/b4d35f78-c9c6-4d39-ae41-970ec992adc7');
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: cover;
+    .column-times-3 {
+      display: flex;
+      flex-wrap: wrap;
+      max-width: 600px; 
+      padding: 0;
+      margin: 0;
+      list-style: none;
     }
-
-    h1, h2, h3, h4, h5, h6, p, ul, ol {
-      text-align: center;
-      font-family: Verdana, Geneva, sans-serif;
-  }
+    .column-times-3 li {
+      width: 33.33%;
+      box-sizing: border-box;
+      padding: 5px 10px;
+    }
   </style>
 </head>
 
 <body>
+    <div class="div-image1">
       <h1>
             Services
       </h1>
       <h3>
             Call us to make a booking at: (03) 0403 718 259
       </h3>
-      <ul>
-            <li>Flu Vaccines</li>
-            <li>Breast Screening</li>
-            <li>Referral to hospitals</li>
+    </div>
+    <div class="div-2">
+      <ul class="column-times-3">
+          <li>Flu Vaccines</li>
+          <li>Breast Screening</li>
+          <li>Referral to hospitals</li>
+          <li>Health Assessments</li>
+          <li>General Care</li>
+          <li>Diagnosis</li>
+          <li>Cancer Screening</li>
+          <li>Mental Health Consultation</li>
+          <li>Blood Pressure Management</li>
+          <li>Cardiovascular Disease</li>
+          <li>Diabetes</li>
+          <li>Pap Smears</li>
       </ul>
+    </div>
+    <h3>
+        Return to the main page here.
+    </h3>
 </body>
       
 </html>
